@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Music",
+    "path": "o1s_apps/Music/music.py",
+    "type": "gui",
+    "version": "1.0",
+    "icon": "🎵"
+  },
+  {
+    "name": "Calculator",
+    "path": "o1s_apps/Calculator/calculator.py",
+    "type": "gui",
+    "version": "1.0",
+    "icon": "🧮"
+  }
+]

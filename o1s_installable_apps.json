@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Music",
+    "description": "Проигрыватель музыки с поддержкой основных форматов",
+    "icon": "🎵",
+    "version": "1.0",
+    "size": "5.2 MB",
+    "installed": true,
+    "file_path": "apps/music.py",
+    "update_available": false
+  },
+  {
+    "name": "Calendar",
+    "description": "Календарь с напоминаниями и событиями",
+    "icon": "📅",
+    "version": "1.0",
+    "size": "3.1 MB",
+    "installed": false,
+    "file_path": "apps/calendar.py",
+    "update_available": false
+  }
+]
